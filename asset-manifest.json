@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/1.React_Expense_App/static/css/main.5eecfdc4.css",
+    "main.css": "/1.React_Expense_App/static/css/main.dc5caf8a.css",
     "main.js": "/1.React_Expense_App/static/js/main.abaa7f50.js",
     "static/media/sport.png": "/1.React_Expense_App/static/media/sport.65c00608864253e4358c.png",
     "static/media/car.png": "/1.React_Expense_App/static/media/car.dea1cbaff0367d40b2a7.png",
     "static/media/grocery.png": "/1.React_Expense_App/static/media/grocery.a3aed222296ff22cd857.png",
     "index.html": "/1.React_Expense_App/index.html",
-    "main.5eecfdc4.css.map": "/1.React_Expense_App/static/css/main.5eecfdc4.css.map",
+    "main.dc5caf8a.css.map": "/1.React_Expense_App/static/css/main.dc5caf8a.css.map",
     "main.abaa7f50.js.map": "/1.React_Expense_App/static/js/main.abaa7f50.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eecfdc4.css",
+    "static/css/main.dc5caf8a.css",
     "static/js/main.abaa7f50.js"
   ]
 }
